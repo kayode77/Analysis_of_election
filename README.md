@@ -1,2 +1,3 @@
 # Analysis_of_election
 This is an analysis of Nigerian presidential election in 2015 and 2019
+From the above analysis , it shows that the leading candidate who is the All progressive Congress party candidate in the person of Muhammadu Buhari won the 2015 presidential election. He got his lead in three Northern states(Katsina state inclusive which is the home state of the candidate) with nothing less than a million votes which made him to win the election especially in Kano states with about two million votes. Therefore, Kano, Katsina and Kaduna are strongholds in the North for any aspiring candidate in winning any election in Nigeria. Although other states like Rivers, Delta in the South are also important for a victory.
